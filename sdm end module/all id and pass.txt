@@ -1,0 +1,11 @@
+gmail.pass: pankajinirmal
+
+
+github
+id: pravininirmal63
+pass: pravin1239
+
+
+AWS:
+id: pravininirmal63@gmail.com
+pass: Pankajinirmal@123
